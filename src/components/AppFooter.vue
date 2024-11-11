@@ -18,12 +18,12 @@ export default{
 
   <header>
 
-    <div class="container mt-5 text-center">
+    <div class="container py-5">
 
-      <h1 class="text-primary">
-        Vite Boolfolio
-      </h1>
-
+      <p>
+        Footer
+      </p>
+      
     </div>
 
   </header>
